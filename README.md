@@ -21,6 +21,7 @@ Dependencies
 Requires:
 * GNU Multiprecision Arithmetic Library (GMP) available from gmplib.org
 * Victor Shoup's NTL: A Library for doing Number Theory available from shoup.net/ntl
+* C++ library for Finite Fields and Elliptic Curves available from github.com/scipr-lab/libff
 
 Build Instructions in Ubuntu
 ------------------
