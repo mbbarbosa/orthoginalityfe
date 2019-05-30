@@ -41,6 +41,8 @@ $ git submodule update
 
 $ cd libff
 
+$ git submodule init
+$ git submodule update
 $ mkdir build && cd build && cmake ..
 
 4 - Build from source
