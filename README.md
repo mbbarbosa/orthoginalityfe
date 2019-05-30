@@ -55,7 +55,7 @@ $ cd ../../src/test
 
 $ make
 
-6 - Run the test applications
+5 - Run the test applications
 
 $ ./test_ssfe_ggm 
 
