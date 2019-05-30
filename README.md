@@ -42,8 +42,11 @@ $ git submodule update
 $ cd libff
 
 $ git submodule init
+
 $ git submodule update
+
 $ mkdir build && cd build && cmake ..
+
 $ make
 
 4 - Build from source
@@ -55,5 +58,6 @@ $ make
 6 - Run the test applications
 
 $ ./test_ssfe_ggm 
+
 $ ./test_ssfe_sm
 
